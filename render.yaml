@@ -20,5 +20,5 @@ services:
           property: connectionString
 databases:
   - name: atencion-postgres
-    databaseName: atencion_db
+    databaseName: atencion_db_gq4b
     user: atencion_owner
